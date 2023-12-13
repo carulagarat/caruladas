@@ -1,2 +1,0 @@
-# caruladas
-Cosas de Carula

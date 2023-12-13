@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caruladas/static/css/main.ec467db4.css",
+    "main.js": "/caruladas/static/js/main.97d5eaa1.js",
+    "static/js/787.30ea0e49.chunk.js": "/caruladas/static/js/787.30ea0e49.chunk.js",
+    "index.html": "/caruladas/index.html",
+    "main.ec467db4.css.map": "/caruladas/static/css/main.ec467db4.css.map",
+    "main.97d5eaa1.js.map": "/caruladas/static/js/main.97d5eaa1.js.map",
+    "787.30ea0e49.chunk.js.map": "/caruladas/static/js/787.30ea0e49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec467db4.css",
+    "static/js/main.97d5eaa1.js"
+  ]
+}
