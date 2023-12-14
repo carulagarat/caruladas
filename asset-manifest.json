@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/caruladas/static/css/main.ec467db4.css",
+    "main.css": "/caruladas/static/css/main.3ed86065.css",
     "main.js": "/caruladas/static/js/main.f0a5655a.js",
     "static/js/787.30ea0e49.chunk.js": "/caruladas/static/js/787.30ea0e49.chunk.js",
     "index.html": "/caruladas/index.html",
-    "main.ec467db4.css.map": "/caruladas/static/css/main.ec467db4.css.map",
+    "main.3ed86065.css.map": "/caruladas/static/css/main.3ed86065.css.map",
     "main.f0a5655a.js.map": "/caruladas/static/js/main.f0a5655a.js.map",
     "787.30ea0e49.chunk.js.map": "/caruladas/static/js/787.30ea0e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec467db4.css",
+    "static/css/main.3ed86065.css",
     "static/js/main.f0a5655a.js"
   ]
 }
